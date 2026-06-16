@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://status.regpoints.com
+baseURL: https://status.regpoints.com/
 
 # For features like Last modified, you
 # need to use a Git repository. If you
