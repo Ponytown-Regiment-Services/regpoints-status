@@ -1,0 +1,3 @@
+{{- $parts := split (.Get 0) " " -}}
+{{- $trackedAt := time (printf "%sT%sZ" (index $parts 0) (index $parts 1)) -}}
+<span class="faded">({{ $trackedAt.Format site.Params.shortDateFormat }})</span>
