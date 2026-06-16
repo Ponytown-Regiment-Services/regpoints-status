@@ -1,0 +1,27 @@
+{
+  "is": "system",
+  "title": "Gateway",
+  "permalink": "http://localhost:1313/affected/gateway/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "US East Connection Issues",
+        "createdAt": "2018-04-25 04:13:00 +0000 UTC",
+        "lastMod": "2019-12-21 21:27:28 +0200 EET",
+        "permalink": "http://localhost:1313/issues/2018-05-25-us-east-conn-issues/",
+        "severity": "down",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2018-04-25 04:13:59",
+        "affected": ["API", "Media Proxy", "Gateway"],
+        "filename": "2018-05-25-us-east-conn-issues.md"
+      }
+    
+  ]
+}
+
+
+
+
+
