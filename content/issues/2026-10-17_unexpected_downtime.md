@@ -20,4 +20,4 @@ The website now works as expected.
 
 ***Resolved*** - The issue has been resolved. {{< track "2026-10-17 03:23:00" >}}
 
-*Monitoring* - Our hoster warned us that one of our sub system was dysfunctional. They began operations to fix the issue. {{< track "2026-10-17 00:57:00" >}}
+***Monitoring*** - Our hoster warned us that one of our sub system was dysfunctional. They began operations to fix the issue. {{< track "2026-10-17 00:57:00" >}}
