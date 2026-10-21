@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "buildCommand": "if [ -d .git ]; then git submodule update --init --recursive; fi && hugo --gc --minify",
+  "buildCommand": "if [ -d .git ]; then git submodule update --init --recursive; fi && hugo --gc --minify --enableGitInfo=false",
   "outputDirectory": "public",
   "headers": [
     {
