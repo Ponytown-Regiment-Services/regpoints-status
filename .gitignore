@@ -1,3 +1,4 @@
 .vercel
 public/*
 node_modules/
+.env*.local
