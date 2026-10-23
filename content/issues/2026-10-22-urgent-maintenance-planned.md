@@ -8,7 +8,6 @@ affected:
   - Bot
 section: issue
 informational: true
-pin: true
 ---
 
 Our hosting company has made us aware of a very important incoming maintenance on the machine that hosts our bot.
