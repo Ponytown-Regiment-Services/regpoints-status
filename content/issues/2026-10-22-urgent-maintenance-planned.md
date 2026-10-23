@@ -1,7 +1,8 @@
 ---
 title: "Urgent Maintenance Planned"
 date: 2026-10-22 21:00:00
-resolved: false
+resolved: true
+resolvedWhen: 2026-10-22 23:00:00
 severity: notice
 affected:
   - Bot
